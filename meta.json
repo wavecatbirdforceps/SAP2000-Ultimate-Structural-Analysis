@@ -1,0 +1,24 @@
+{
+  "repo": "sap2000-ultimate-structural-analysis",
+  "product": "SAP2000 Ultimate Structural Analysis",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "sap2000-ultimate-structural-analysis",
+    "sap2000-structural",
+    "sap2000-structural-2000",
+    "sap2000-structural-analysis",
+    "sap2000-structural-2000-analysis",
+    "how-to-install-sap2000-structural",
+    "how-to-setup-sap2000-structural",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "SAP2000 Ultimate Structural Analysis"
+}
